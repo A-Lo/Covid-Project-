@@ -1,7 +1,10 @@
 <h1 align = "center"> Covid 2022 Analysis </h1>
 
 <p align = "center">The data used in this project was retrieved on May 1, 2022. <br>
-    The last record in the tables dates: April 30, 2022 </p>
+    The last record in the tables dates: April 30, 2022
+    <br><br>
+    <b>Note: The dashboard will contain data until April 30, 2022. </b>
+</p>
 
 
 ---
