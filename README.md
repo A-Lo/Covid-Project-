@@ -4,6 +4,8 @@
     (The last record in the tables dates: May 1, 2022)
     <br><br>
     <b>Note: The dashboard will contain data until April 30, 2022. </b>
+    <br>
+    <b>Datasource: https://ourworldindata.org/covid-deaths
 </p>
 
 
